@@ -1,0 +1,15 @@
+D:\.Net\MyStoreProject\MyStore.Application\bin\Debug\net8.0\MyStore.Application.deps.json
+D:\.Net\MyStoreProject\MyStore.Application\bin\Debug\net8.0\MyStore.Application.dll
+D:\.Net\MyStoreProject\MyStore.Application\bin\Debug\net8.0\MyStore.Application.pdb
+D:\.Net\MyStoreProject\MyStore.Application\bin\Debug\net8.0\MyStore.Domain.dll
+D:\.Net\MyStoreProject\MyStore.Application\bin\Debug\net8.0\MyStore.Domain.pdb
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.csproj.AssemblyReference.cache
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.AssemblyInfoInputs.cache
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.AssemblyInfo.cs
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.csproj.CoreCompileInputs.cache
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore..AA4E0CEB.Up2Date
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.dll
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\refint\MyStore.Application.dll
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\MyStore.Application.pdb
+D:\.Net\MyStoreProject\MyStore.Application\obj\Debug\net8.0\ref\MyStore.Application.dll
